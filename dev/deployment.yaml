@@ -71,7 +71,7 @@ data:
     </head>
     <body>
         <div class="container">
-            <h1>🚀 Demo Application - DEV Environment</h1>
+            <h1> >.< Demo Application - DEV Environment</h1>
             <div class="version">Version: v1.0.0</div>
             <p>Deployed by ArgoCD</p>
             <p>Environment: Development</p>
